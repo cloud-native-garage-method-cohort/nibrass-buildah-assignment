@@ -4,7 +4,7 @@ metadata:
   annotations:
     argocd.argoproj.io/sync-options: Validate=false
     openshift.io/host.generated: "true"
-  name: nibrass-haider-express-sample-app
+  name: express-sample-app
 spec:
   tls:
     termination: edge
