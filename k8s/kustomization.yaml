@@ -12,4 +12,3 @@ images:
 - name: '*'
   newName: quay.io/nibrass_haider_ibm/express-sample-app
   newTag: 5a439e963abda6c910a77b1293a080a084a35d95
- 
