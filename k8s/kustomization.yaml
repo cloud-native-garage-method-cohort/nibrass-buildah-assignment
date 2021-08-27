@@ -11,4 +11,4 @@ commonLabels:
 images:
 - name: '*'
   newName: quay.io/nibrass_haider_ibm/express-sample-app
-  newTag: 5a439e963abda6c910a77b1293a080a084a35d95
+  newTag: 8f4aa8b96a5dc9d38ccf5de68aaaa4cecc1833f1
